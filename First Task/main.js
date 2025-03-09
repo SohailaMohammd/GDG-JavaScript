@@ -43,7 +43,7 @@ console.log(typeof elzero); // object
 // تكليف 3
 console.log(" `I'm in \\\\ \n Love \\\\ \"\"\" \'\'\' \n  ++ With ++ \n \\\"\"\" \\\"\"\" \n \"\"JavaScript\"\"`` ");
 
-// تكليف 3
+// تكليف 4
 
 let a = 21;
 let b = 20;
@@ -110,7 +110,7 @@ console.log(points + add); // 13
 console.log(points - add  +true); // 8;
 
 
-
+// --------------------------------------------------------------
 
 
 // Videos (23 - 26)
